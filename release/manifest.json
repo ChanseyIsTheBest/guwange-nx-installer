@@ -3,7 +3,7 @@
   "builds": [
     {
       "edition": "Xbox Live Arcade (title 58410A78) with Title Update #1",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "xex_sha256": "b426e877eec7e34afe0c1314390a8f11c1728053668b6aea2efed2387d1bf401",
       "update_files": [
         {
@@ -151,8 +151,8 @@
         }
       ],
       "nro": "guwange.nro",
-      "nro_sha256": "dab0dc341f057f37064628e1f94ac5caff6434ece95bb532a6d9faf9ffc4ef9c",
-      "nro_size": 88040776,
+      "nro_sha256": "28751aeca849428e0d6aaa0aeabc8d6dc018827d7afe57d3c86e9525fd9b4a74",
+      "nro_size": 88044872,
       "deko3d": {
         "shaders": [
           "ps_247180442A9D01BC",
